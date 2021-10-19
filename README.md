@@ -8,7 +8,7 @@ Este curso consta de dos clases, los temas y conceptos a cubrir son los siguient
 - Lectura y escritura de archivos formato Excel y CSV.
 - Manipulación de datos con Pandas.
 
-## ** Clase 2 **
+## **Clase 2**
 
 - Introducción a matplotlib.
 - Visualización de datos.
